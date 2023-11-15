@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylan Jaundoo</h1>
-<h3 align="center">Passionate web developer from Queens, NY</h3>
+<h3 align="center"> Web developer from Queens, NY</h3>
 
 <p align="left"> <a href="https://twitter.com/jaundoo_codes" target="blank"><img src="https://img.shields.io/twitter/follow/jaundoo_codes?logo=twitter&style=for-the-badge" alt="jaundoo_codes" /></a> </p>
 
