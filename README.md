@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaundoo_codes" target="blank"><img src="https://img.shields.io/twitter/follow/jaundoo_codes?logo=twitter&style=for-the-badge" alt="jaundoo_codes" /></a> </p>
 
-- 🌱 I’m currently learning **React and Boostrap**
+- 🌱 I’m currently learning **React and Tailwind**
 
 - 💬 Ask me about **front-end development**
 
